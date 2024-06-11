@@ -52,6 +52,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Resources
 - [Food Recipe Finder Landing Site](https://deenakamal.github.io/)
-- [Final Project Blog Article](http://your-blog-article-link.com)
+- [Final Project Blog Article](https://medium.com/@deenakamal.e/food-recipe-finder-a-journey-from-passion-to-application-41351707783d)
 
 
