@@ -47,7 +47,7 @@ Contributions are welcome! If you find any bugs or have suggestions for new feat
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Authors
-- [Deena Kamal](https://github.com/deenakamal)
+- [Deena Kamal](https://medium.com/@deenakamal.e/food-recipe-finder-a-journey-from-passion-to-application-41351707783d)
 
 
 ## Resources
