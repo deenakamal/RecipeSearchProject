@@ -3,7 +3,7 @@
 ## Introduction
 Food Recipe Finder is a web application that allows users to search for and discover recipes for various dishes. With a vast database of recipes, users can explore different cuisines, dietary preferences, and cooking methods to find the perfect recipe for any occasion.
 
-![Food Recipe Finder Screenshot](images/img22.png)
+![Food Recipe Finder Screenshot](images/img33.png)
 
 ### Features
 - **Search**: Easily search for recipes by entering keywords or ingredients in the search bar.
