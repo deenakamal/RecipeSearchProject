@@ -26,11 +26,6 @@ Food Recipe Finder is a web application that allows users to search for and disc
 ## Getting Started
 
 1. Clone the repository to your local machine.
-2. Install dependencies by running `npm install`.
-3. Set up environment variables (if required) for API keys or database connections.
-4. Start the development server by running `npm start` or `node app.js`.
-5. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to view the application.
-
 
 ## Usage
 1. Open the application in your web browser.
